@@ -1,5 +1,5 @@
-## yup yup whatever
+## Welcome to git
 
-- its mthiz here
+-- This is coming from dev-themba branch
 
 ## Hello in new brach
